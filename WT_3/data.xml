@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>
+<class>
+    <student no = "774">
+        <name>Damiano</name>
+        <lastname>David</lastname>
+        <birthday>08/01/1999</birthday>
+        <group>151211</group>
+        <id>223</id>
+        <role>user</role>
+    </student>
+
+    <student no = "395">
+        <name>Victoria</name>
+        <lastname>De Angelis</lastname>
+        <birthday>28/04/2000</birthday>
+        <group>785412</group>
+        <id>211</id>
+        <role>user</role>
+    </student>
+
+    <student no = "562">
+        <name>Thomas</name>
+        <lastname>Raggi</lastname>
+        <birthday>18/01/2001</birthday>
+        <group>951753</group>
+        <id>117</id>
+        <role>user</role>
+    </student>
+
+    <student no = "748">
+        <name>Ethan</name>
+        <lastname>Torchio</lastname>
+        <birthday>08/10/2000</birthday>
+        <group>789023</group>
+        <id>117</id>
+        <role>user</role>
+    </student>
+</class>
